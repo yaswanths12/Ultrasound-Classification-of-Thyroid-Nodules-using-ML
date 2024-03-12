@@ -1,4 +1,4 @@
-Ultrasound Image Classification of Thyroid Nodules (Machine Learning)
+Ultrasound Image Classification of Thyroid Nodules (Machine Learning)<br>
 Project Responsibilities:
 Led the team in conducting image processing tasks, including preprocessing and enhancing ultrasound images for optimal feature extraction.
 Implemented feature extraction techniques to capture relevant information from the ultrasound images, facilitating accurate classification of thyroid nodules.
